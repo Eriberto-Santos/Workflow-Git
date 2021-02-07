@@ -27,3 +27,8 @@ Eliminar remotos
 
 `git remote remove name_remoto`
 
+## Creando etiquetas
+Es necesario entender que las etiquesta o realice solo deben ser creadas a partir de la rama master como buena práctica.
+
+Para entender como llamar o categorizar tus versiones te recomentamos un articulo en nuestro bloc: https://ed.team/blog/como-se-deciden-las-versiones-del-software
+
