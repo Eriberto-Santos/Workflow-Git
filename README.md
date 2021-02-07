@@ -8,3 +8,7 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 3.  Click en organización
 4.  Click en nueva organización
 5.  Elegir plan y llenar datos
+
+## Creación del fork 
+
+Para crear un fork debes iniciar sesion en github y luego ingresar a la landing page del proyecto del que quieras sacar tu fork.
