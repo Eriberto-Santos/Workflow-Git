@@ -12,3 +12,18 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 ## Creación del fork 
 
 Para crear un fork debes iniciar sesion en github y luego ingresar a la landing page del proyecto del que quieras sacar tu fork.
+
+## Como trabajar con 2 o más remotos
+
+Listar remotos
+`git remote -v` 
+
+Agregar remotos
+
+`git remote add name_remoto url(HTTP,SSH)`
+
+
+Eliminar remotos
+
+`git remote remove name_remoto`
+
